@@ -210,7 +210,7 @@
     <connection>scm:git:git@github.com:mohdmohsin025/Java-example.git</connection>
     <developerConnection>scm:git:git@github.com:mohdmohsin025/Java-example.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jmohdmohsin025/Java-example</url>
+    <url>http://github.com/mohdmohsin025/Java-example</url>
   </scm>
 
   <prerequisites>
