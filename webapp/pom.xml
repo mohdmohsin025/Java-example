@@ -7,7 +7,7 @@
     <groupId>maven-helloworld</groupId>
     <artifactId>maven-helloworld</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <relativePath>var/lib/jenkins/workspace/maven-helloworld/webapp/pom.xml</relativePath>
+    <relativePath>../pom.xml</relativePath>
   </parent>
 
   <artifactId>webapp</artifactId>
