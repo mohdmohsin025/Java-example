@@ -28,13 +28,7 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
-
-               
-  <build>
-          <defaultGoal>Package</defaultGoal>
-  ...
-  </build>
-         
+       
   <build>
     <plugins>
       <plugin>
