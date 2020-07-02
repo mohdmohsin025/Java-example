@@ -10,6 +10,11 @@
   <name>maven-helloworld</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
+         
+         <build>
+         <defaultGoal>Package</defaultGoal>
+         ...
+         </build>
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
