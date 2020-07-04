@@ -35,6 +35,7 @@
         <groupId>org.apache.maven.plugins</groupId>   
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
+           <executable>/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.252.b09-3.el8_2.x86_64/bin/javac</executable>     
           <source>1.8</source>
           <target>1.8</target>
         </configuration>
